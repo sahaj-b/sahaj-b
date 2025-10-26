@@ -3,3 +3,6 @@
 - **Web**: Typescript, React, Next.js, Tailwind, Node, Express, MongoDB, SQL
 - **System**: Go, C++, Bash/Zsh, Python
 - **Socials**:  &nbsp; [X](https://twitter.com/sahaj__b) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/sahaj-bhatt-9b8b381b0/) &nbsp;·&nbsp; [Discord](https://discord.com/users/722399437875576874)
+<br>
+
+![stats](https://github-readme-stats.vercel.app/api?username=sahaj-b&theme=catppuccin_mocha&show_icons=true)

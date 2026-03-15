@@ -1,5 +1,5 @@
 - I build for the **web** and the **terminal**.  
-- Check out my portfolio: **[sahaj.dev](https://sahaj.dev)**
+- Check out my portfolio & blogs: **[sahaj.dev](https://sahaj.dev)**
 - **Web**: Typescript, React, Next.js, Tailwind, Node, Express, MongoDB, SQL
 - **System**: Go, C++, Bash/Zsh, Python
 - **Socials**:  &nbsp; [X](https://twitter.com/sahaj__b) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/sahaj-bhatt-9b8b381b0/) &nbsp;·&nbsp; [Discord](https://discord.com/users/722399437875576874)

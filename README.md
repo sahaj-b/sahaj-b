@@ -14,3 +14,15 @@
   </tr>
 </table>
 
+<h4 align="center"> Notable Projects </h4>
+
+| Web Apps | Terminal Apps | Misc & Others |
+|------------|----------------------|---------------|
+| • [versus-type](https://github.com/sahaj-b/versus-type): typing racer with live cursors & chat<br>• [binge-meter](https://github.com/sahaj-b/binge-meter): (browser extension) distraction tracker w/ AI<br>• [shopsense](https://github.com/sahaj-b/shopsense): view transitions + Go backend<br>• [who-sent-this](https://github.com/sahaj-b/who-sent-this): anonymous messaging<br>| • [wakafetch](https://github.com/sahaj-b/wakafetch): WakaTime/Wakapi dashboard<br>• [sound-of-sort](https://github.com/sahaj-b/sound-of-sort): sorting visualizer with sound & image support<br>• [zff](https://github.com/sahaj-b/zff): smart & fast inline file finder<br>• [tymr](https://github.com/sahaj-b/tymr): timer/alarm daemon + CLI<br>• [scrntime](https://github.com/sahaj-b/scrntime): screentime + AFK support<br>• [go-attend](https://github.com/sahaj-b/go-attend): attendance tracker<br>| • [ghostty-cursor-shaders](https://github.com/sahaj-b/ghostty-cursor-shaders): glsl frag shaders <br>• [wayvibes](https://github.com/sahaj-b/wayvibes): wayland keyboard sound effects<br>• [brainrot.nvim](https://github.com/sahaj-b/brainrot.nvim): LSP audio feedback for nvim<br>• [dotfiles](https://github.com/sahaj-b/dotfiles): hyprland dotfiles with 45+ scripts<br>• [opencode-notifier](https://github.com/sahaj-b/opencode-notifier): focus-aware notifications<br>• [socketio-benchmark](https://github.com/sahaj-b/socketio-benchmark): benchmarking different Socket.IO engines<br>• [multiple-curl-to-postman](https://github.com/sahaj-b/multiple-curl-to-postman)/[postman-collection-gen](https://github.com/sahaj-b/postman-collection-gen): postman <-> curl files|
+
+
+
+
+
+
+

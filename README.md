@@ -8,10 +8,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-five-sand.vercel.app/api?username=sahaj-b&show_icons=true&custom_title=Git%20Gud%20Meter&hide_rank=true&hide_border=true&hide=prs,issues,contribs&title_color=4493F8&icon_color=4493F8&text_color=F0F6FC&bg_color=00000000" />
+      <img src="https://github-readme-stats-five-sand.vercel.app/api?username=sahaj-b&show_icons=true&custom_title=Git%20Gud%20Meter&hide_rank=true&hide_border=true&hide=prs,issues,contribs&title_color=4493F8&icon_color=4493F8&text_color=F0F6FC&bg_color=00000000&cache_seconds=21600" />
     </td>
     <td>
-      <img src="https://github-readme-stats-five-sand.vercel.app/api/top-langs?username=sahaj-b&layout=compact&hide_title=true&hide_border=true&icon_color=4493F8&text_color=F0F6FC&bg_color=00000000&cache_seconds=21600&count_private=false" />
+      <img src="https://github-readme-stats-five-sand.vercel.app/api/top-langs?username=sahaj-b&layout=compact&hide_title=true&hide_border=true&icon_color=4493F8&text_color=F0F6FC&bg_color=00000000&cache_seconds=21601&count_private=false" />
     </td>
   </tr>
 </table>
